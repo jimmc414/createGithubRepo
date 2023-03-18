@@ -4,7 +4,7 @@ This Python script allows you to create a new GitHub repository and upload files
 Usage:
 Make sure you have Python installed.
 Set your GitHub personal access token as an environment variable or enter it when prompted.
-Place the creategithubrepo.py file in the directory you wish to upload to a new GitHub repository.
+Place the creategithubrepo.py file in the directory you wish to upload to a new GitHub repository or ideally add it to your PATH so you can run it anywhere.
 Run the script using the following command:
 
 python creategithubrepo.py
